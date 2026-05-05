@@ -1,0 +1,19 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Maven / Java
+promethia/target/
+
+# Node
+promethia-ui/node_modules/
+promethia-ui/dist/
+
+# Environment
+.env
+promethia/.env
+promethia-ui/.env
+
+# OS
+.DS_Store
+Thumbs.db
